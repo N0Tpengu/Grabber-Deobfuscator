@@ -1,0 +1,32 @@
+{
+    "deletemessage": {
+        "content": ":clown: @everyone :clown:",
+        "embeds": [
+            {
+                "title": "ur fucky little webhook just got deleted",
+                "description": "next time make ur fucky grabber look more realistic :nerd:",
+                "color": 16711680,
+                "author": {
+                    "name": "N0V0 on top",
+                    "url": "https://github.com/N0Tpengu/Grabber-Deobfuscator"
+                }
+            }
+        ]
+    },
+    "spammessage": {
+        "content": "@everyone",
+        "embeds": [
+            {
+                "title": "Your obfuscation suck more than you do you better reconsider ur life choices instead of staying on ur 3$ pc 24/7",
+                "description": "stop tryna hack ppl u little fucky nerd",
+                "color": 16711680,
+                "author": {
+                    "name": "N0V0 on top",
+                    "url": "https://github.com/N0Tpengu/Grabber-Deobfuscator"
+                }
+            }
+        ]
+    },
+    "deleteafterdeobf": false,
+    "telegram_message": "test"
+}
